@@ -1,4 +1,9 @@
 body{
     font-size: 20px;
-    color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+div{
+    background-color: chocolate;
 }
